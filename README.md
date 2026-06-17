@@ -66,7 +66,7 @@ Distributed orchestration · Event-driven pipelines · MLOps · Data validation 
 ## Background
 
 - Machine Learning Engineer 2 at Microsoft Core AI
-- Former Software Development Engineer II at AWS
+- Former Software Development Engineer at AWS
 - MIT graduate researcher in machine learning and applied AI
 - Georgia Tech Computer Engineering graduate
 
